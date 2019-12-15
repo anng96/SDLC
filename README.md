@@ -1,3 +1,3 @@
 # SDLC
 
-![tekst alternatywny](Diagram przypadków użycia.jpg)
+![tekst alternatywny](./Diagram przypadków użycia.jpg)
