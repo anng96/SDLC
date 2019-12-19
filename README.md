@@ -16,4 +16,4 @@ Jest to aplikacja typu kalendarz czytelna i łatwa w obsłudze, aby miała najwi
 
 * [Anna Gajda](https://github.com/Ojamenustik)<br>
 * [Anna Gogól](https://github.com/anng96)<br>
-
+* [Kamil Chudziak](https://github.com/kamilchudziak)<br>
