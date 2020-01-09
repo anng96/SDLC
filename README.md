@@ -10,7 +10,21 @@ Use Stories to najmniejsza jednostka pracy w zwinnych metodykach pracy, jej cele
 ## Aplikacja Kalendarz
 Jest to aplikacja typu kalendarz czytelna i łatwa w obsłudze, aby miała największą kompatybilność i była funkcjonalnością, która ułatwi mi życie codzienne.
 
-## Spis treści
+## Spis treści User Stories
+* Language
+* GUI 
+* Project
+* Profile
+* Event
+* Tabs
+* Groups
+* Access
+* Payments
+* Notifications
+* Calendar filling
+* Safety
+* Historical Data
+* Website Calendar
 
 ## Twórcy
 
